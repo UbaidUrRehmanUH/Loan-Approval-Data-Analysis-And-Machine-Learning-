@@ -53,9 +53,7 @@ git clone https://github.com/yourusername/loan-analysis](https://github.com/Ubai
 - Review the exploratory data analysis (EDA) section to understand the dataset.
 - Experiment with the preprocessing and modeling pipeline to adapt it for other datasets.
 
-## License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this code for personal or commercial purposes, provided that proper credit is given. See the `LICENSE` file for more details.
 
 ## Contributions
 
