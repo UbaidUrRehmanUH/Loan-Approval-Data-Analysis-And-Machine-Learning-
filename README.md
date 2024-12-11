@@ -42,11 +42,6 @@ This project demonstrates a comprehensive data analysis and machine learning wor
 git clone https://github.com/yourusername/loan-analysis](https://github.com/UbaidUrRehmanUH/Loan-Approval-Data-Analysis-And-Machine-Learning-
 ```
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Run the Notebook
 
