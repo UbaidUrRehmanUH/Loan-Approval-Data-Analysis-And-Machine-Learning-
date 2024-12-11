@@ -1,4 +1,4 @@
-# Loan Data Analysis and Machine Learning Pipeline
+# Loan Approval Data Analysis and Machine Learning Pipeline
 
 This project demonstrates a comprehensive data analysis and machine learning workflow, focusing on a loan dataset. It provides a step-by-step approach to preprocess the data, derive actionable insights, and build predictive models that can assist in decision-making processes. The notebook includes detailed explanations and well-documented code to ensure clarity and reproducibility.
 
