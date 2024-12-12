@@ -39,7 +39,7 @@ This project demonstrates a comprehensive data analysis and machine learning wor
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/loan-analysis](https://github.com/UbaidUrRehmanUH/Loan-Approval-Data-Analysis-And-Machine-Learning-
+git clone https://github.com/UbaidUrRehmanUH/loan-analysis](https://github.com/UbaidUrRehmanUH/Loan-Approval-Data-Analysis-And-Machine-Learning-
 ```
 
 
